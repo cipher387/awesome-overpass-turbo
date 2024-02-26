@@ -17,6 +17,26 @@ Overpass turbo is web based data mining tool for OpenStreetMap that runs Overpas
 
 ## Table of content
 
+- [Servers](#servers)
+- [Documentation/tutorials](#documentationtutorials)
+- [Articles](#articles)
+- [Videos](#videos)  
+- [Online tools](#online-tools)
+- [Command line tools](#command-line-tools-overpass-turbo-and-overpass-api)
+- [Tool for working with GeoJSON](#tool-for-working-with-geojson)
+- [AI helpers](#ai-helpers)
+
+
+## Servers
+
+[Overpass Turbo EU](https://overpass-turbo.eu/)  
+[Heigit.org](https://overpass.heigit.org/) 
+[Mail.ru](https://maps.mail.ru/osm/tools/overpass/)  
+[Overpass Turbo Switzerland](http://overpass-turbo.osm.ch/#)  
+[Overpass Ultra](https://overpass-ultra.trailsta.sh/)  
+
+
+
 ## Documentation/tutorials
 
 [OpenStreetMap Wiki: Overpass Turbo](https://wiki.openstreetmap.org/wiki/Overpass_turbo)  
@@ -53,15 +73,6 @@ Overpass turbo is web based data mining tool for OpenStreetMap that runs Overpas
 [Finding City Boundaries in OSM | Python + OpenStreet Maps + Overpass](https://www.youtube.com/watch?v=fRTHshCj-L0)  
 [OSINT At Home #10– How to map anything with freely available location data](https://www.youtube.com/watch?v=bJkV3l5Haq0)  
 
-
-
-## Servers
-
-[Overpass Turbo EU](https://overpass-turbo.eu/)  
-[Heigit.org](https://overpass.heigit.org/) 
-[Mail.ru](https://maps.mail.ru/osm/tools/overpass/)  
-[Overpass Turbo Switzerland](http://overpass-turbo.osm.ch/#)  
-[Overpass Ultra](https://overpass-ultra.trailsta.sh/)  
 
 
 ## Online tools
