@@ -3,7 +3,7 @@
      <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/awesome-overpass-turbo"> 
      <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/awesome-overpass-turbo"> <br>
      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipher387%2Fawesome-overpass-turbo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-     <br>
+     <hr>
 Overpass turbo is web based data mining tool for OpenStreetMap that runs Overpass API query and shows the results on map. Created by Tyrasd (Martin Raifer) in 2012-2013.
 </div>
 
