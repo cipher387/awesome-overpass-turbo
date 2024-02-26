@@ -7,15 +7,18 @@
 
 Overpass turbo is web based data mining tool for OpenStreetMap that runs Overpass API query and shows the results on map. Created by Tyrasd (Martin Raifer) in 2012-2013.
 
-</div>
 
-<br>
+<hr>
 
 [Run Overpass Turbo online](https://overpass-turbo.eu/)  
 [Overpass Turbo source code Github repo](https://github.com/tyrasd/overpass-turbo)  
 [Overpass API souce code Github repo](https://github.com/drolbr/Overpass-API)  
 [Martin Raifer (creator of Overpass Turbo) Github profile](https://github.com/tyrasd)  
 [Martin Raifer Twitter profile](https://twitter.com/tyr_asd)  
+
+</div>
+
+
 
 
 ## Table of content
