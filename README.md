@@ -8,24 +8,24 @@ Overpass turbo is web based data mining tool for OpenStreetMap that runs Overpas
 </div>
 
 
-[Run Overpass Turbo online](https://overpass-turbo.eu/)
-[Overpass Turbo source code Github repo](https://github.com/tyrasd/overpass-turbo)
-[Overpass API souce code Github repo](https://github.com/drolbr/Overpass-API)
-[Martin Raifer (creator of Overpass Turbo) Github profile](https://github.com/tyrasd)
-[Martin Raifer Twitter profile](https://twitter.com/tyr_asd)
+[Run Overpass Turbo online](https://overpass-turbo.eu/)  
+[Overpass Turbo source code Github repo](https://github.com/tyrasd/overpass-turbo)  
+[Overpass API souce code Github repo](https://github.com/drolbr/Overpass-API)  
+[Martin Raifer (creator of Overpass Turbo) Github profile](https://github.com/tyrasd)  
+[Martin Raifer Twitter profile](https://twitter.com/tyr_asd)  
 
 
 ## Table of content
 
 ## Documentation/tutorials
 
-[OpenStreetMap Wiki: Overpass Turbo](https://wiki.openstreetmap.org/wiki/Overpass_turbo#:~:text=Overpass%20turbo%20(overpass%2Dturbo.,a%20good%20place%20to%20start.)
-[OSM Queries. Overpass tutorial](https://osm-queries.ldodds.com/tutorial/)
-[OSMLab Learn Overpass tutorial](https://osmlab.github.io/learnoverpass/en/)
-[DataDesk Overpass Turbo tutorial (archived)](https://github.com/datadesk/overpass-turbo-tutorial)
-[OpenStreetMap Wiki: OverPass Turbo examples](https://wiki.openstreetmap.org/wiki/Overpass_turbo/Examples)
-[OverPass Turbo for dummies (not English, but very good tutorial)](https://telegra.ph/Overpass-turbo-dlya-chajnikov-03-26)
-[Overpass API. User's manual](https://dev.overpass-api.de/overpass-doc/en/index.html)
+[OpenStreetMap Wiki: Overpass Turbo](https://wiki.openstreetmap.org/wiki/Overpass_turbo#:~:text=Overpass%20turbo%20(overpass%2Dturbo.,a%20good%20place%20to%20start.)  
+[OSM Queries. Overpass tutorial](https://osm-queries.ldodds.com/tutorial/)  
+[OSMLab Learn Overpass tutorial](https://osmlab.github.io/learnoverpass/en/)  
+[DataDesk Overpass Turbo tutorial (archived)](https://github.com/datadesk/overpass-turbo-tutorial)  
+[OpenStreetMap Wiki: OverPass Turbo examples](https://wiki.openstreetmap.org/wiki/Overpass_turbo/Examples)  
+[OverPass Turbo for dummies (not English, but very good tutorial)](https://telegra.ph/Overpass-turbo-dlya-chajnikov-03-26)  
+[Overpass API. User's manual](https://dev.overpass-api.de/overpass-doc/en/index.html)  
 
 ## Articles
 
