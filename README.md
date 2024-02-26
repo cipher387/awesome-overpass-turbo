@@ -67,6 +67,7 @@ Overpass turbo is web based data mining tool for OpenStreetMap that runs Overpas
 [A 1-minute way to geolocate road signs that show the distance to the nearest cities](https://medium.com/osint-ambition/a-1-minute-way-to-geolocate-road-signs-that-show-the-distance-to-the-nearest-cities-9e8d4d08b93b)  
 [How to geolocate public transport photo using OverPass Turbo and AI](https://medium.com/osint-ambition/how-to-geolocate-public-transport-photo-using-overpass-turbo-and-ai-32fd3dfc1849) 
 [GeoSpy + OpenStreetMap search = super power](https://medium.com/osint-ambition/geospy-openstreetmap-search-super-power-a5c0a4028cdc)  
+[GEOINT : Comment utiliser Overpass Turbo pour l’OSINT](https://predictalab.medium.com/geoint-comment-utiliser-overpass-turbo-pour-losint-ed1da66354e9)
 
 
 ## Videos
